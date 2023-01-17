@@ -1,0 +1,10 @@
+.returnButton, .addButton {
+    font-size: 1.6rem;
+}
+
+.returnButton:hover {
+    color: white;
+}
+.addButton:hover {
+    color: white;
+}
