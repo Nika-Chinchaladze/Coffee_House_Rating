@@ -1,5 +1,6 @@
 # Coffee House Rating
-
+<p>Used Technologies: HTML / CSS / Bootstrap / Flask / Jinja</p>
+<p><a href="https://www.youtube.com/watch?v=Ei4OxRduO5Q">Watch - How Web Application Works!</a></p>
 
 # App
 ![first](https://user-images.githubusercontent.com/106172218/213034772-8ab17813-c2c5-4397-a10a-dfa3b8f155a7.jpg)
